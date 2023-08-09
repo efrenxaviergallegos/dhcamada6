@@ -5,3 +5,9 @@
     width: 30px;
     background-color: beige;
 }
+
+body{
+    display: flex;
+    gap: 2em;
+    color: red;
+}
